@@ -1,1 +1,1 @@
-# Network Manager in Rust (nm.rs)
+# Network Manager in Rust
